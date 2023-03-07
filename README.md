@@ -14,4 +14,9 @@ Which variables are significant in predicting the demand for shared electric cyc
 How well those variables describe the electric cycle demands
 Dataset:
 
-Dataset Link: yulu_data.csv
+Concept Used:
+
+Bi-Variate Analysis
+2-sample t-test: testing for difference across populations
+ANNOVA
+Chi-square
